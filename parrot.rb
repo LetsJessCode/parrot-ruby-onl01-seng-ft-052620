@@ -8,9 +8,6 @@ end
 #   return phrase
 # end
 
-def parrot("Pretty bird!")
-  return parrot
-end
 
 
 # def parrot
